@@ -7,13 +7,13 @@ em1 (LAN)
 - IPv4 Private address: 192.168.1.1/24
 
 ## Windows 11 Client Configurations
-Static IPv4 Address: 192.168.1.105/24
-IPv6 (DHCP)
-DNS: 192.168.1.102
-Default Gateway: 192.168.1.1
+- Static IPv4 Address: 192.168.1.105/24
+- IPv6 (DHCP)
+- DNS: 192.168.1.102
+- Default Gateway: 192.168.1.1
 
 ## Domain Controller Configurations
-Static IPv4 Address: 192.168.1.102
-IPv6 (DHCP)
-DNS: 192.168.1.102
-Default Gateway: 192.168.1.1
+- Static IPv4 Address: 192.168.1.102
+- IPv6 (DHCP)
+- DNS: 192.168.1.102
+- Default Gateway: 192.168.1.1
